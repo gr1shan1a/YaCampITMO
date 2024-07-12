@@ -1,0 +1,35 @@
+999990
+999990
+top - 14:48:02 up 15:36,  7 users,  load average: 3.03, 3.05, 2.68
+Tasks: 130 total,   8 running, 122 sleeping,   0 stopped,   0 zombie
+%Cpu(s):100.0 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   1826.8 total,   1517.3 free,    177.9 used,    131.6 buff/cache
+MiB Swap:    820.0 total,    703.4 free,    116.6 used.   1509.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+2773373 root      20   0  254828  35476   3004 R  11.1   1.9   0:00.38 mem.sh
+2773374 root      20   0  254696  35476   3012 R  11.1   1.9   0:00.37 mem2.sh
+ 214239 user      20   0  222488   1988   1668 S   3.2   0.1   2:01.98 3.sh
+      1 root      20   0  179208   5224   3716 S   0.0   0.3   0:02.72 systemd
+top - 14:48:12 up 15:36,  7 users,  load average: 3.19, 3.08, 2.69
+Tasks: 130 total,   8 running, 122 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 66.7 us,  0.0 sy,  0.0 ni,  0.0 id,  0.0 wa, 33.3 hi,  0.0 si,  0.0 st
+MiB Mem :   1826.8 total,    736.3 free,    958.8 used,    131.6 buff/cache
+MiB Swap:    820.0 total,    703.4 free,    116.6 used.    728.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+2773374 root      20   0  652280 433060   3012 R  42.1  23.2   0:05.00 mem2.sh
+2773373 root      20   0  655316 435964   3004 R  31.6  23.3   0:04.98 mem.sh
+      1 root      20   0  179208   5224   3716 S   0.0   0.3   0:02.72 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.01 kthreadd
+top - 14:48:45 up 15:37,  7 users,  load average: 4.96, 3.51, 2.85
+Tasks: 130 total,   7 running, 123 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 82.4 us,  5.9 sy,  0.0 ni,  0.0 id,  0.0 wa,  5.9 hi,  5.9 si,  0.0 st
+MiB Mem :   1826.8 total,    400.6 free,   1370.3 used,     55.9 buff/cache
+MiB Swap:    820.0 total,    351.2 free,    468.8 used.    355.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+2773374 root      20   0 1854536   1.2g   1284 R   4.9  68.4   0:19.31 mem2.sh
+      1 root      20   0  179208   2092   1864 D   0.0   0.1   0:02.72 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 rcu_gp
