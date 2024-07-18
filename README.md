@@ -7,4 +7,7 @@
 - [Linux administration](https://github.com/gr1shan1a/YaCampITMO/tree/main/Linux_administration)
 - Windows administraton
 - DevOps course
+
+p.s. good [course](https://practicum.yandex.ru/ycloud/) about yandex.cloud
+  
 TODO: add files from VM(CentOS8)
