@@ -22,4 +22,6 @@
 
 p.s. полный [курс лекций](https://www.youtube.com/playlist?list=PLf4R2kS4aMYazLYKqz1hQi_Upz0rfLFjy) по компьютерным сетям
 
+интересный файлик по [TCP/IP](https://disk.yandex.ru/i/sfggR7NRfCjHlQ)
+
 
