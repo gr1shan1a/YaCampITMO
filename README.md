@@ -6,7 +6,7 @@
 - [Queuing theory](https://disk.yandex.ru/d/l4Hds5mwWVz81w)
 - [Linux administration](https://github.com/gr1shan1a/YaCampITMO/tree/main/Linux_administration)
 - [Windows administraton](https://disk.yandex.ru/d/x7z0K8HkrvT9qw)
-- DevOps course
+- DevOps course - TODO: по видосам расписать темы и набрасать тут редмишку
 
 p.s. good [course](https://practicum.yandex.ru/ycloud/) about yandex.cloud
 
