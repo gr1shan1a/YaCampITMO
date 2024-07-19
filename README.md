@@ -9,5 +9,5 @@
 - DevOps course
 
 p.s. good [course](https://practicum.yandex.ru/ycloud/) about yandex.cloud
-  
-TODO: add files from VM(CentOS8)
+
+Link to DevOps [Project](https://github.com/gr1shan1a/CampITMO)(Разработка helm-чарта и пайплайна развертывания приложения на flask с надёжным хранением секретов в Vault)
