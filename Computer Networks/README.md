@@ -7,3 +7,5 @@
 - [Интерактивная диаграмма потока пакетов через iptables](https://zersh01.github.io/iptables_interactive_scheme/)
 - Ссылка на [презентацию](https://disk.yandex.ru/i/09qBbjjJhgCrNQ) по лекции
 - [Практикум_по_сетевым_технологиям](https://disk.yandex.ru/i/tFouSyDpPXG7Zw)
+- Ссылки на VM: [CentOS7](https://disk.yandex.ru/d/Lh2_t-QgK6b-8g) и [Debian11](https://disk.yandex.ru/d/bLEhmrwB-6TQRA)
+
